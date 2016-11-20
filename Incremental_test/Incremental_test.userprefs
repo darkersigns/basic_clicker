@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Goldpersec.cs">
+    <Files>
+      <File FileName="Assets\Click.cs" Line="17" Column="3" />
+      <File FileName="Assets\UpgradeManager.cs" Line="29" Column="15" />
+      <File FileName="Assets\ItemManager.cs" Line="38" Column="1" />
+      <File FileName="Assets\Goldpersec.cs" Line="22" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Incremental_test" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Goldpersec.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

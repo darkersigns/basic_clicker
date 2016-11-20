@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5049AACD-8E01-A321-A114-DFDEB8ABFBA4}") = "Incremental_test", "Assembly-CSharp.csproj", "{9FF6618F-9C9A-886E-4963-8883B67ABB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF6618F-9C9A-886E-4963-8883B67ABB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF6618F-9C9A-886E-4963-8883B67ABB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF6618F-9C9A-886E-4963-8883B67ABB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF6618F-9C9A-886E-4963-8883B67ABB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
