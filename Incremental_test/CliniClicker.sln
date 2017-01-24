@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7757791E-F37C-48C8-EEEF-0ACDBADAE656}") = "CliniClicker", "Assembly-CSharp.csproj", "{C3B60647-204A-A8A0-07DB-6D58907201CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B60647-204A-A8A0-07DB-6D58907201CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B60647-204A-A8A0-07DB-6D58907201CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B60647-204A-A8A0-07DB-6D58907201CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B60647-204A-A8A0-07DB-6D58907201CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

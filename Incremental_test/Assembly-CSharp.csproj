@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9FF6618F-9C9A-886E-4963-8883B67ABB91}</ProjectGuid>
+    <ProjectGuid>{C3B60647-204A-A8A0-07DB-6D58907201CF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,10 +45,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Click.cs" />
-     <Compile Include="Assets\Goldpersec.cs" />
-     <Compile Include="Assets\ItemManager.cs" />
-     <Compile Include="Assets\UpgradeManager.cs" />
+     <Compile Include="Assets\Scripts\Click.cs" />
+     <Compile Include="Assets\Scripts\GoldPerSecond.cs" />
+     <Compile Include="Assets\Scripts\GoldPerSecondUpgrades.cs" />
+     <Compile Include="Assets\Scripts\UpgradeManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
