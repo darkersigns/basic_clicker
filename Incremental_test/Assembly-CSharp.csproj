@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\Click.cs" />
      <Compile Include="Assets\Scripts\GoldPerSecond.cs" />
      <Compile Include="Assets\Scripts\GoldPerSecondUpgrades.cs" />
+     <Compile Include="Assets\Scripts\TogglePanelButton.cs" />
      <Compile Include="Assets\Scripts\UpgradeManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

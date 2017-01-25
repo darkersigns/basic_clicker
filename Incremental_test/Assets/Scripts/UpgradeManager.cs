@@ -15,8 +15,6 @@ public class UpgradeManager : MonoBehaviour {
     public Color affordable;
     private Slider _slider;
 
-
-
 	// Use this for initialization
 	void Start () {
 		baseCost = cost;
